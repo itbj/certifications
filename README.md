@@ -4,7 +4,9 @@ This repository contains study guides I've put together for various certificatio
 Feel free to update it to address mistakes or changes to the service.
 
 Thanks!
-
+# 20201225T0006
+# URLs  
+https://journeyofthegeek.com/2020/12/07/journey-to-the-cka/
 
 
 
